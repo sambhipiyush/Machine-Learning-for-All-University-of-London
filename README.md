@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="javascript:void(0)" rel="noopener">
- <img width=400px  src="University-of-london-logo.jpg" alt="University-of-london-logo"></a>
+ <img width=400px  src="University-of-london-logo.png" alt="University-of-london-logo"></a>
 </p>
 
 #### Instructor(s) : Dr Marco Gillies
