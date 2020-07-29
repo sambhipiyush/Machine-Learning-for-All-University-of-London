@@ -265,9 +265,9 @@ by University of London
 
 > high level features typically encode smaller, more meaning full information, like words. Low level features typically encode the raw data, like audio samples or pixel, which can take a lot of space. This isn't always the case, high level image features created by filters can some times be the same size and the low level features
 #
-> The feature representation you use has a effect in k-nearest neighbour because it is based on similarity
+> The feature representation you use has a effect in k-nearest neighbour because it is based on similarity\
 How you measure similarity is probably the most important aspect of the nearest neighbour method, and that will depend a lot on which features you are using
 #
-> Modern deep neural networks work well because: They can scale up to very large amounts of data
+> Modern deep neural networks work well because: They can scale up to very large amounts of data\
 Each neuron is quite simple, but you can combine a lot of them to handle a lot of data. In general, machine learning works best if you have a lot of data
 
